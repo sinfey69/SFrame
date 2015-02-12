@@ -1,0 +1,30 @@
+[2014-11-14 11:10:15][127.0.0.1] [array (
+  'type' => 1,
+  'message' => 'Cannot access protected property Controller::$loader',
+  'file' => '/home/qiuxh/SFrameWork/system/lib/CommonPage.php',
+  'line' => 53,
+)]
+[2014-11-14 12:22:57][127.0.0.1] [array (
+  'type' => 1,
+  'message' => 'Using $this when not in object context',
+  'file' => '/home/qiuxh/SFrameWork/system/lib/CommonPage.php',
+  'line' => 53,
+)]
+[2014-11-14 12:24:44][127.0.0.1] [array (
+  'type' => 1,
+  'message' => 'Using $this when not in object context',
+  'file' => '/home/qiuxh/SFrameWork/system/lib/CommonPage.php',
+  'line' => 53,
+)]
+[2014-11-14 12:25:04][127.0.0.1] [array (
+  'type' => 1,
+  'message' => 'Using $this when not in object context',
+  'file' => '/home/qiuxh/SFrameWork/system/lib/CommonPage.php',
+  'line' => 53,
+)]
+[2014-11-14 12:26:14][127.0.0.1] [array (
+  'type' => 1,
+  'message' => 'Using $this when not in object context',
+  'file' => '/home/qiuxh/SFrameWork/system/lib/CommonPage.php',
+  'line' => 53,
+)]

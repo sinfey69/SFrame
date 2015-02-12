@@ -1,0 +1,1 @@
+<div id='content'>hello <?php echo $name?>, this is a test page!</div>
